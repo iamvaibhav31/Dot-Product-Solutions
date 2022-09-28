@@ -12,7 +12,7 @@ function App() {
       <div className="bg-gradient d-flex flex-column vh-100 clearflex">
         {/* <Navbar /> */}
         <Routes>
-          <Route exact path='/' element={<Home />} />
+          <Route exact path='Dot-Product-Solutions/' element={<Home />} />
         </Routes>
       </div>
     </DndProvider >
