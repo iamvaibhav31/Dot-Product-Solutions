@@ -47,3 +47,13 @@ Email us the deliverables before 28th September 12:00 pm to hr@dotproduct.in. Yo
 Selected candidates from this round will be intimated via email in a week after their submissions.
 
 ### Good Luck!
+
+
+
+# Task Scheduler
+- Complete all the given tasks and with Bootstrap , react and Redux-Toolkit
+
+# Screenshots
+
+![Screenshot (150)](https://user-images.githubusercontent.com/80534369/192778130-3c8504b1-f111-4f9e-95fa-08abf9759e44.png)
+![Screenshot (151)](https://user-images.githubusercontent.com/80534369/192778142-11eacf5a-735f-45a7-85e4-db6e099c7fe9.png)
