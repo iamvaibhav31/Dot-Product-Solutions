@@ -16,8 +16,6 @@ const Validate = ({ tasktitle, taskcontext }) => {
           error.taskcontext = "Minimum 25 characters"
      }
 
-
-     console.log(error)
      return error
 }
 
