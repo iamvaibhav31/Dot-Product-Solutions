@@ -10,7 +10,7 @@ function App() {
       <div className="bg-gradient d-flex flex-column vh-100 clearflex">
         
         <Routes>
-          <Route exact path='Dot-Product-Solutions/' element={<Home />} />
+          <Route exact path='/' element={<Home />} />
         </Routes>
       </div>
     </DndProvider >
