@@ -28,7 +28,7 @@ function Done() {
                <div className=" p-1">
                     {donetask.map((item) => {
                          return (
-                              <Card id={item.id} title={item.tasktitle} context={item.taskcontext} status={item.status} />
+                              <Card id={item.id} title={item.tasktitle} context={item.taskcontext} status={item.status} type="SpecificTasks" />
                          )
                     })}
 
