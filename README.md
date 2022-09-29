@@ -56,4 +56,4 @@ Selected candidates from this round will be intimated via email in a week after 
 # Screenshots
 
 ![Screenshot (150)](https://user-images.githubusercontent.com/80534369/192778130-3c8504b1-f111-4f9e-95fa-08abf9759e44.png)
-![Screenshot (151)](https://user-images.githubusercontent.com/80534369/192778142-11eacf5a-735f-45a7-85e4-db6e099c7fe9.png)
+![Screenshot (152)](https://user-images.githubusercontent.com/80534369/193005955-1724b9ca-65b1-4ffb-9c18-df6497b906cd.png)
